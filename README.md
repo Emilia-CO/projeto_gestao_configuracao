@@ -1,5 +1,10 @@
-print("Sistema de gestão de configuração iniciado")
+print("=== Sistema de Gestão de Configuração ===")
+
+def iniciar_sistema():
+    print("Sistema iniciado com sucesso.")
 
 def nova_funcionalidade():
-    print("Nova funcionalidade adicionada ao sistema")
-    
+    print("Funcionalidade de controle de versão ativa.")
+
+iniciar_sistema()
+nova_funcionalidade()
