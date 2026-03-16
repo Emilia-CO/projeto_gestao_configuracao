@@ -1,2 +1,5 @@
-# projeto_gestao_configuracao
-Projeto de exemplo para prática de gestão de configuração utilizando Git e GitHub.
+print("Sistema de gestão de configuração iniciado")
+
+def nova_funcionalidade():
+    print("Nova funcionalidade adicionada ao sistema")
+    
